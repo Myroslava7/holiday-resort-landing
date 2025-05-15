@@ -57,7 +57,7 @@ This project is a responsive landing page for a fictional resort complex, **Holi
 
 ## 📷 Preview
 
-![HolidayResort Preview](preview.jpg)
+![HolidayResort Preview](preview.png)
 
 ---
 
