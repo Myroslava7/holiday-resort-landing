@@ -65,7 +65,7 @@ This project is a responsive landing page for a fictional resort complex, **Holi
 
 🔗 [Live Demo](https://your-username.github.io/HolidayResort/)
 
-> Replace `your-username` with your actual GitHub username after publishing with GitHub Pages.
+> Replace `Myroslava7` with your actual GitHub username after publishing with GitHub Pages.
 
 ---
 
